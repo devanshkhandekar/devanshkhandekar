@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devanshkhandekar
-- 👀 I’m interested in Machine learning & Data Science 
+- 👀 I’m interested in Machine learning & Low Level Computer Vision Applications and Speech Synthesis
 - 🌱 I’m currently learning MLops
 <!--- 💞️ I’m looking to collaborate on ... -->
 - 📫 Reach me at devanshkhandekar@gmail.com...
